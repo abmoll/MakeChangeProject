@@ -3,7 +3,7 @@
 
 First graded homework project.
 
-###Goals
+### Goals
 
 ### What I learned
 
