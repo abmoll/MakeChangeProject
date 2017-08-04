@@ -1,5 +1,5 @@
 # Make Change Project
-## Week1 homework
+## Week 1 homework
 
 First graded homework project.
 
