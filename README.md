@@ -13,4 +13,8 @@ review if statements, casting data types, use of the modulus operator, equations
 
 ### To run this program:
 
-In Git in the abmoll/MakeChangeProject/src directory, at a command prompt type java GiveChange.  Enter the price of the item and the amount tendered.  You will receive your change in bills and coins.
+Download the files from the abmoll/MakeChangeProject/src directory.
+
+At a command prompt type java GiveChange.  
+
+Enter the price of the item and the amount tendered.  You will receive your change in bills and coins.
