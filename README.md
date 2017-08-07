@@ -5,11 +5,11 @@ First graded homework project.
 
 ### Goals
 
-To create a program that gives change in the correct denomination of bills and coins.
+Create a program that gives change in the correct denomination of bills and coins.
 
 ### What I learned
 
-review if statements, casting data types, use of the modulus operator, equations, handling user input
+Use of if statements, casting data types, use of the modulus operator, equations, handling user input
 
 ### To run this program:
 
